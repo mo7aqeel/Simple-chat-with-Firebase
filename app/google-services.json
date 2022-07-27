@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059979181202",
+    "project_id": "medical-chat-deb81",
+    "storage_bucket": "medical-chat-deb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059979181202:android:237788147fa337590c7a4b",
+        "android_client_info": {
+          "package_name": "com.ali.medicalchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059979181202-15o3pove5a0amdtch1cm0291jvnn5b6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAUGyqsr50OGXISr6p0hIqUowmQy75cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059979181202-15o3pove5a0amdtch1cm0291jvnn5b6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
